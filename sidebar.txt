@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[win:home|Door43 (win)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-win|d43-win repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-win/archive/master.zip|d43-win.zip]]
+
+**Recent Changes**
+{{changes>ns = win}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/win|Ethnologue data]]
+
